@@ -1,0 +1,1 @@
+{"buildTargets":[".PHONY","createdb","db_docs","db_schema","docker-build","docker-delete","docker-run","dropdb","evans","make.exe","migratedown","migratedown1","migrateup","migrateup1","mock","network","postgres","proto","server","sqlc","test"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
