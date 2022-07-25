@@ -1,6 +1,5 @@
 make.exe --dry-run --always-make --keep-going --print-directory
 make.exe: Entering directory 'c:/Solutions/Repositories/Go/src/github.com/miguelanselmo/my-api-demo'
 docker network create bank-network
- 
 make.exe: Leaving directory 'c:/Solutions/Repositories/Go/src/github.com/miguelanselmo/my-api-demo'
  

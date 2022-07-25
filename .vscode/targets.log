@@ -7,7 +7,7 @@ make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --quest
 # There is NO WARRANTY, to the extent permitted by law.
  
 
-# Make data base, printed on Mon Jul 25 09:44:20 2022
+# Make data base, printed on Mon Jul 25 10:45:18 2022
 
 # Variables
 
@@ -61,8 +61,7 @@ PATH = C:\Tools\Go\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WIN
 # environment
 COMMONPROGRAMW6432 = C:\Program Files\Common Files
 # environment
-ZES_ENABLE_SYSMAN = 
- 1
+ZES_ENABLE_SYSMAN = 1
 # environment
 PROCESSOR_ARCHITECTURE = x86
 # environment
@@ -80,7 +79,7 @@ ELECTRON_RUN_AS_NODE = 1
 # automatic
 %F = $(notdir $%)
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_28240_WLBHLWGRVAKPJGMM
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_35256_PMKCSNPAYJJDHSVZ
 # environment
 COMPUTERNAME = LIS-BTKTW93
 # environment
@@ -100,7 +99,7 @@ GOMODCACHE = C:\Solutions\Repositories\Go\pkg\mod
 # environment
 VSCODE_CODE_CACHE_PATH = C:\Users\msousaan\AppData\Roaming\Code\CachedData\3b889b090b5ad5793f524b5d1d39fda662b96a2a
 # environment
-APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # environment
 COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
 # environment
@@ -198,7 +197,7 @@ LANG = C
 # environment
 PROCESSOR_LEVEL = 6
 # environment
-VSCODE_PID = 28240
+VSCODE_PID = 35256
 # environment
 USERDOMAIN_ROAMINGPROFILE = USERSAD
 # variable set hash-table stats:
@@ -212,19 +211,19 @@ USERDOMAIN_ROAMINGPROFILE = USERSAD
 
 # C:\ProgramData\DockerDesktop\version-bin: could not be stat'd.
 # C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow (key C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TestWindow, mtime 1656587070): 52 files, no impossibilities.
-# C:\Program Files\ 
-Microsoft Visual Studio\2022\Community\Common7\IDE\ (key C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/, mtime 1656587713): 310 files, no impossibilities.
+# C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ (key C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/, mtime 1656587713): 310 files, no impossibilities.
 # C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\ (key C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/, mtime 1656586145): 59 files, no impossibilities.
 # C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\VC\Linux\bin\ConnectionManagerExe (key C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/Linux/bin/ConnectionManagerExe, mtime 1656586400): 7 files, no impossibilities.
 # C:\Users\msousaan\go\bin: could not be stat'd.
 # C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\Tools\ (key C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/Tools/, mtime 1656586196): 51 files, no impossibilities.
 # C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\FSharp\Tools (key C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools, mtime 1656586434): 51 files, no impossibilities.
 # C:\WINDOWS\System32\WindowsPowerShell\v1.0\ (key C:/WINDOWS/System32/WindowsPowerShell/v1.0/, mtime 1654708571): 30 files, no impossibilities.
-# . (key c:/Solutions/Repositories/Go/src/github.com/miguelanselmo/my-api-demo, mtime 1658738581): 17 files, no impossibilities.
+# . (key c:/Solutions/Repositories/Go/src/github.com/miguelanselmo/my-api-demo, mtime 1658740309): 19 files, no impossibilities.
 # C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\ (key C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/, mtime 1656586370): 7 files, no impossibilities.
 # C:\Tools\nodejs\ (key C:/Tools/nodejs/, mtime 1656588104): 13 files, no impossibilities.
 # C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\bin\Roslyn (key C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/bin/Roslyn, mtime 1656586215): 46 files, no impossibilities.
-# C:\Program Files\Microsoft SQL Server\150\Tools\Binn\ (key C:/Program Files/Microsoft SQL Server/150/Tools/Binn/, mtime 1656586360): 4 files, no impossibilities.
+# C:\Program Files\Microsoft SQL Server\150\Tools\Binn\ (key C:/Program Files/Microsoft SQL Server/150/T 
+ools/Binn/, mtime 1656586360): 4 files, no impossibilities.
 # C:\Program Files\Git\cmd (key C:/Program Files/Git/cmd, mtime 1656587518): 7 files, no impossibilities.
 # C:\Users\msousaan\AppData\Roaming\npm (key C:/Users/msousaan/AppData/Roaming/npm, mtime 1656588098): 2 files, no impossibilities.
 # C:\WINDOWS\System32\OpenSSH\: could not be stat'd.
@@ -245,8 +244,7 @@ Microsoft Visual Studio\2022\Community\Common7\IDE\ (key C:/Program Files/Micros
 # C:\Users\msousaan\.dotnet\tools: could not be stat'd.
 # C:\Windows\Microsoft.NET\Framework\v4.0.30319 (key C:/Windows/Microsoft.NET/Framework/v4.0.30319, mtime 1658501142): 403 files, no impossibilities.
 # C:\Tools\Git\cmd (key C:/Tools/Git/cmd, mtime 1656587564): 8 files, no impossibilities.
-# C:\Program Files\Common Files\Oracle\Java\javapath (key C:/Program Files/Commo 
-n Files/Oracle/Java/javapath, mtime 1656587886): 6 files, no impossibilities.
+# C:\Program Files\Common Files\Oracle\Java\javapath (key C:/Program Files/Common Files/Oracle/Java/javapath, mtime 1656587886): 6 files, no impossibilities.
 # C:\Program Files\dotnet\ (key C:/Program Files/dotnet/, mtime 1656585301): 13 files, no impossibilities.
 # C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\VC\VCPackages (key C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/VCPackages, mtime 1656587093): 29 files, no impossibilities.
 # C:\WINDOWS\system32 (key C:/WINDOWS/system32, mtime 1658235051): 2920 files, no impossibilities.
@@ -254,7 +252,7 @@ n Files/Oracle/Java/javapath, mtime 1656587886): 6 files, no impossibilities.
 # C:\Tools\TDM-GCC-64\bin (key C:/Tools/TDM-GCC-64/bin, mtime 1658302940): 62 files, no impossibilities.
 # C:\Tools\Go\bin (key C:/Tools/Go/bin, mtime 1656585173): 4 files, no impossibilities.
 
-# 5004 files, no impossibilities in 41 directories.
+# 5006 files, no impossibilities in 41 directories.
 
 # Implicit Rules
 
@@ -265,8 +263,7 @@ n Files/Oracle/Java/javapath, mtime 1656587886): 6 files, no impossibilities.
 postgres:
 #  Phony target (prerequisite of .PHONY).
 #  Implicit rule search has not been done.
-#  File does 
- not exist.
+#  File does not exist.
 #  File has not been updated.
 
 network:
@@ -286,8 +283,7 @@ all:
 
 migratedown1:
 #  Phony target (prerequisite of .PHONY).
-#  Implicit rule search has not been done 
-.
+#  Implicit rule search has not been done.
 #  File does not exist.
 #  File has not been updated.
 #  recipe to execute (from 'Makefile', line 16):
@@ -426,10 +422,7 @@ mock:
 #  File does not exist.
 #  File has not been updated.
 #  recipe to execute (from 'Makefile', line 25):
-	mockgen -package mockdb -destination db/mock/store 
-make.exe: *** No rule to make target 'all'.  Stop.
-
-.go github.com/techschool/simplebank/db/sqlc Store
+	mockgen -package mockdb -destination db/mock/store.go github.com/techschool/simplebank/db/sqlc Store
 
 # files hash-table stats:
 # Load=24/1024=2%, Rehash=0, Collisions=2/50=4%
@@ -439,14 +432,16 @@ make.exe: *** No rule to make target 'all'.  Stop.
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 11 (9) / strings = 4747 / storage = 86087 B / avg = 18 B
+# strcache buffers: 11 (9) / strings = 4749 / storage = 86103 B / avg = 18 B
 # current buf: size = 8174 B / used = 4441 B / count = 252 / avg = 17 B
-# other used: total = 77913 B / count = 4495 / avg = 17 B
-# other free: total = 94 B / max = 18 B / min = 1 B / avg = 9 B
+# other used: total = 77929 B / count = 4497 / avg = 17 B
+# other free: total = 78 B / max = 18 B / min = 1 B / avg = 7 B
 
-# strcache performance: lookups = 5090 / hit rate = 6%
+# strcache performance: lookups = 5092 / hit rate = 6%
 # hash-table stats:
-# Load=4747/8192=58%, Rehash=0, Collisions=2581/5090=51%
-# Finished Make data base on Mon Jul 25 09:44:20 2022
+# Load=4749/8192=58%, Rehash=0, Collisions=2585/5092=51%
+# Finished Make data base on Mon Jul 25 10:45:18 2022
 
  
+make.exe: *** No rule to make target 'all'.  Stop.
+
