@@ -16,6 +16,20 @@ type params struct {
 	PageSize int8 `form:"page_size" binding:"required,min=5,max=10"`
 }
 
+//https://github.com/swaggo/swag
+
+// ShowAccount godoc
+// @Summary      get accounts
+// @Description  get all account of user
+// @Tags         accounts
+// @Accept       json
+// @Produce      json
+// @Param        id   path      int  true  "Account ID"
+// @Success      200  {object}  models.User
+// @Failure      400  {object}  error
+// @Failure      404  {object}  error
+// @Failure      500  {object}  error
+// @Router       /accounts/{id} [get]
 func (ctrl *Controller) GetUserAll(c *gin.Context) {
 	//Get all users
 	var params params
